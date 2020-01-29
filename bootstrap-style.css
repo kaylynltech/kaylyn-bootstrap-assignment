@@ -1,0 +1,13 @@
+body {
+    background: pink;
+}
+.container-fluid {
+    text-align: center;
+    background: maroon;
+}
+a {
+    color:yellow;
+}
+body {
+    background-image: url(pink-hearts.jpg)
+}
